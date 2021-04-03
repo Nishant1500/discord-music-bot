@@ -1,5 +1,5 @@
 
-#DEPRECATED
+# DEPRECATED
 
 ## Discord Music Bot
 A Discord Music Bot For Begginers. Easy To Install Also :> Use the `help` command to get a list of commands!
