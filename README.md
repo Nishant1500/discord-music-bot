@@ -31,6 +31,7 @@ You Are All Set, Now Lets Start The Bot
 
 Do
 ```shell
+> npm i
 > npm start
 ```
 
